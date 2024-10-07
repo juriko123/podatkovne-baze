@@ -1,6 +1,4 @@
 # podatkovne-baze
 Projekt pasta
-
 Naveza: Gašper-Jurij
-
-BABABABABBA
+Masina od projekta
