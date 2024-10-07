@@ -1,4 +1,6 @@
 # podatkovne-baze
-Projekt pasta;
-Naveza: Gašper-Jurij;
+Projekt pasta
+
+Naveza: Gašper-Jurij
+
 BABABABABBA
