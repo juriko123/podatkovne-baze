@@ -1,0 +1,2 @@
+# podatkovne-baze
+Projekt pasta
