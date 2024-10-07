@@ -1,1 +1,1 @@
-SELECT naslov FROM film;
+SELECT naslov FROM film; 
