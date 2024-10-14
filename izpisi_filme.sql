@@ -7,3 +7,4 @@ WHERE ROUND(ocena) = (
     SELECT MIN(ROUND(ocena))
     FROM film
 );
+ 
